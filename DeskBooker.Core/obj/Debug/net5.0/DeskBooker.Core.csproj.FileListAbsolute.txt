@@ -9,3 +9,15 @@ C:\Chanda\Projects\Practice\New folder\DeskBooker\DeskBooker.Core\obj\Debug\net5
 C:\Chanda\Projects\Practice\New folder\DeskBooker\DeskBooker.Core\obj\Debug\net5.0\DeskBooker.Core.dll
 C:\Chanda\Projects\Practice\New folder\DeskBooker\DeskBooker.Core\obj\Debug\net5.0\ref\DeskBooker.Core.dll
 C:\Chanda\Projects\Practice\New folder\DeskBooker\DeskBooker.Core\obj\Debug\net5.0\DeskBooker.Core.pdb
+C:\Chanda\Projects\Practice\New folder\DeskBookerSystem_TDD\DeskBooker.Core\bin\Debug\net5.0\DeskBooker.Core.deps.json
+C:\Chanda\Projects\Practice\New folder\DeskBookerSystem_TDD\DeskBooker.Core\bin\Debug\net5.0\DeskBooker.Core.dll
+C:\Chanda\Projects\Practice\New folder\DeskBookerSystem_TDD\DeskBooker.Core\bin\Debug\net5.0\ref\DeskBooker.Core.dll
+C:\Chanda\Projects\Practice\New folder\DeskBookerSystem_TDD\DeskBooker.Core\bin\Debug\net5.0\DeskBooker.Core.pdb
+C:\Chanda\Projects\Practice\New folder\DeskBookerSystem_TDD\DeskBooker.Core\obj\Debug\net5.0\DeskBooker.Core.csproj.AssemblyReference.cache
+C:\Chanda\Projects\Practice\New folder\DeskBookerSystem_TDD\DeskBooker.Core\obj\Debug\net5.0\DeskBooker.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Chanda\Projects\Practice\New folder\DeskBookerSystem_TDD\DeskBooker.Core\obj\Debug\net5.0\DeskBooker.Core.AssemblyInfoInputs.cache
+C:\Chanda\Projects\Practice\New folder\DeskBookerSystem_TDD\DeskBooker.Core\obj\Debug\net5.0\DeskBooker.Core.AssemblyInfo.cs
+C:\Chanda\Projects\Practice\New folder\DeskBookerSystem_TDD\DeskBooker.Core\obj\Debug\net5.0\DeskBooker.Core.csproj.CoreCompileInputs.cache
+C:\Chanda\Projects\Practice\New folder\DeskBookerSystem_TDD\DeskBooker.Core\obj\Debug\net5.0\DeskBooker.Core.dll
+C:\Chanda\Projects\Practice\New folder\DeskBookerSystem_TDD\DeskBooker.Core\obj\Debug\net5.0\ref\DeskBooker.Core.dll
+C:\Chanda\Projects\Practice\New folder\DeskBookerSystem_TDD\DeskBooker.Core\obj\Debug\net5.0\DeskBooker.Core.pdb

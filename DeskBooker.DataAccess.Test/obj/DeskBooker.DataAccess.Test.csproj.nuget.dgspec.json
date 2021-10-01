@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Chanda\\Projects\\Practice\\New folder\\DeskBooker\\DeskBooker.DataAccess.Test\\DeskBooker.DataAccess.Test.csproj": {}
+    "C:\\Chanda\\Projects\\Practice\\New folder\\DeskBookerSystem_TDD\\DeskBooker.DataAccess.Test\\DeskBooker.DataAccess.Test.csproj": {}
   },
   "projects": {
-    "C:\\Chanda\\Projects\\Practice\\New folder\\DeskBooker\\DeskBooker.DataAccess.Test\\DeskBooker.DataAccess.Test.csproj": {
+    "C:\\Chanda\\Projects\\Practice\\New folder\\DeskBookerSystem_TDD\\DeskBooker.DataAccess.Test\\DeskBooker.DataAccess.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Chanda\\Projects\\Practice\\New folder\\DeskBooker\\DeskBooker.DataAccess.Test\\DeskBooker.DataAccess.Test.csproj",
+        "projectUniqueName": "C:\\Chanda\\Projects\\Practice\\New folder\\DeskBookerSystem_TDD\\DeskBooker.DataAccess.Test\\DeskBooker.DataAccess.Test.csproj",
         "projectName": "DeskBooker.DataAccess.Test",
-        "projectPath": "C:\\Chanda\\Projects\\Practice\\New folder\\DeskBooker\\DeskBooker.DataAccess.Test\\DeskBooker.DataAccess.Test.csproj",
+        "projectPath": "C:\\Chanda\\Projects\\Practice\\New folder\\DeskBookerSystem_TDD\\DeskBooker.DataAccess.Test\\DeskBooker.DataAccess.Test.csproj",
         "packagesPath": "C:\\Users\\vicyav\\.nuget\\packages\\",
-        "outputPath": "C:\\Chanda\\Projects\\Practice\\New folder\\DeskBooker\\DeskBooker.DataAccess.Test\\obj\\",
+        "outputPath": "C:\\Chanda\\Projects\\Practice\\New folder\\DeskBookerSystem_TDD\\DeskBooker.DataAccess.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
